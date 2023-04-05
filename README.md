@@ -1,8 +1,20 @@
 # Transformer Architecture Adventrues (TAA?)
 
 ## Understand the basics:
-a. Read the original Transformer paper: "Attention Is All You Need" by Vaswani et al. https://arxiv.org/abs/1706.03762
+a. Read the original Transformer paper: "Attention Is All You Need" by Vaswani et al. https://arxiv.org/abs/1706.03762 Blog: https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html
 b. Understand key concepts: self-attention mechanism, positional encoding, multi-head attention, and feed-forward neural networks.
+- Self Attention
+    Self attention has three steps:
+    1. Calculate Query, Key and Value vectors
+    - Query vector **represents** the current token the model is processing
+    - Key vector **represents** the unique characteristics of each token in the sentence
+    - Value vector **represents** the value of the current token.
+    2. Scoring and Scaling
+    - We calculate dot products between the query vector of the current token and all key vectors to calcualte attention
+    3. Softmax and Aggregation
+    - We score by multiplying the value vectors by the normalized Q*K scores
+- 
+
 c. Learn about the overall architecture: encoder-decoder structure, layer normalization, and residual connections.
 
 ## Get familiar with TensorFlow:
