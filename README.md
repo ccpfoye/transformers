@@ -22,6 +22,8 @@ a. Install TensorFlow and go through the official TensorFlow tutorials.
 b. Learn about TensorFlow's core concepts: tensors, variables, computation graphs, and gradient descent.
 c. Get hands-on experience with TensorFlow APIs like Keras.
 
+Installing TensorRT: https://docs.nvidia.com/drive/drive-os-5.2.0.0L/drive-os/index.html#page/DRIVE_OS_Linux_SDK_Development_Guide/install_tensorrt.html
+
 ## Implement basic building blocks:
 a. Implement scaled dot-product attention.
 b. Implement multi-head attention.
