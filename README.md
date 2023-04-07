@@ -57,3 +57,4 @@ c. Collaborate with others on open-source projects and contribute to the TensorF
 ## Learn Modern tools
 a. Vertex AI w/ Google:
 https://www.cloudskillsboost.google/paths/17
+b. Hugging Face https://huggingface.co/docs/transformers/index
