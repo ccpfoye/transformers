@@ -53,3 +53,8 @@ d. Explore advanced applications of Transformers in fields like computer vision 
 a. Follow recent publications in natural language processing and Transformer-based models.
 b. Participate in online forums, discussions, and conferences to learn from the community.
 c. Collaborate with others on open-source projects and contribute to the TensorFlow ecosystem.
+
+## Learn Modern tools
+a. Vertex AI w/ Google:
+https://www.cloudskillsboost.google/paths/17
+b. Hugging Face https://huggingface.co/docs/transformers/index
